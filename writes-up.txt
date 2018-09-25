@@ -1,0 +1,23 @@
+Pertanyaan 1:
+apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+-->Tidak terjadi error dan muncul tulisan "Data berhasil ditambahkan"
+
+Pertanyaan 2:
+apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+-->Terjadi error dikarenakan parameter amount tidak dimasukkan padahal required = true
+
+Pertanyaan 3:
+apakah data Car tersebut muncul? Jika tidak, mengapa?
+-->Tidak terjadi error dan muncul data-data mobil yang dimasukkan sebelumnya.
+
+Pertanyaan 4:
+ apakah data Car tersebut muncul? Jika tidak, mengapa?
+ -->Tidak muncul karena saat program dihentikan, data-data ter-reset dan data nya belum dimasukkan lagi, sehingga belum ada data mobil dengan id = 2
+
+ Pertanyaan 5:
+apakah data Car tersebut muncul?
+-->Muncul data car yang baru ditambahkan
+
+Pertanyaan 6:
+ Coba tambahkan data Car lainnya dengan id yang berbeda, lalu buka, Apakah semua data Car muncul?
+ -->Muncul semua data mobil-mobil yang sebelumnya dimasukkan
